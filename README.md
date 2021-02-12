@@ -65,7 +65,7 @@ we designed an approach with following requeriments:
 ## Cloning this branch of the module
 
 ```
-git clone --single-branch --branch Bluetooth_Smart_Environments https://scm.atosresearch.eu/ari/helios_group/heliossmartenvironments.git
+git clone --single-branch --branch Bluetooth-Smart-Environments https://github.com/helios-h2020/h.extension-HeliosSmartEnvironments.git
 ```
 
 ## Integration of the module in the app
